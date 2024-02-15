@@ -27,6 +27,7 @@ Welcome to the UNH R Users Group! We're a community of R users at the University
 
 **<span style="font-weight:bold;">Spring 2024 Schedule </span>**
 
+*Meetings are every Wednesday, at 12-1pm in Spaulding 278*
 
 ```{r echo=FALSE, results='asis'}
 
