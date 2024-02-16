@@ -55,7 +55,7 @@ cat("</table>")
 </div>
 <div class="col-sm-6"style="margin-top: 20px;">
 
-<img src="images/UNH_RUsers.png" alt="UNH R Users Group Logo" style="max-width: 300px; height: auto;">
+<img src="images/UNH_RUsers.png" alt="UNH R Users Group Logo" style="max-width: 300px; height: auto; margin-top: 50px; margin-right: 10px;">
 
 
 
