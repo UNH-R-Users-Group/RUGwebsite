@@ -33,7 +33,7 @@ Welcome to the UNH R Users Group! We're a community of R users at the University
 
 schedule <- data.frame(
   Date = c("Jan 31", "Feb 7", "Feb 14", "Feb 21", "Feb 28", "March 6", "March 13", "March 20", "March 27", "April 3", "April 10", "April 17", "April 24", "May 1"),
-  Topic = c("Welcome & Intro to choosing data visualizations", "ggplot color schemes", "leaflet", "making plot themes", "Mult-panel plots","swirl", "making your own github website", "Spring Break", "Poisson regressions", "Interpreting model outputs", "for loops", "quarto", "intro to purr", "intro to regex") 
+  Topic = c("Welcome & Intro to choosing data visualizations", "ggplot color schemes", "leaflet", "making plot themes", "Mult-panel plots","swirl", "making your own github website", "Spring Break", "Poisson regressions", "Interpreting model outputs", "for loops", "quarto", "intro to purr", "intro to regex :)") 
   
 )
 
