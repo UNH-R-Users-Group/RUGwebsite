@@ -1,9 +1,0 @@
-name: "UNH R Users Group"
-navbar:
-  title: "UNH R Users Group"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Links"
-      href: Links.html
-output_dir: "docs"
